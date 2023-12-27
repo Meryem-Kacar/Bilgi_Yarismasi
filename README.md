@@ -1,2 +1,2 @@
 # Bilgi_Yarismasi
-Konsolda yaptığım sıra sıra soruların geldiği ufak bir bilgi yarışması programı
+Konsolda yaptığım sıra sıra soruların geldiği en sonda sonucun gösterildiği ufak bir bilgi yarışması programı
